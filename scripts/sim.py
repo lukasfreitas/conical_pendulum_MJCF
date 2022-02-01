@@ -1,9 +1,5 @@
 '''
-1) Encontrar o angulo que a corda faz com o eixo vertical:
-    Tendo a posicao da esfera, criamos um vetor com a origem do pendulo
-    e um vetor do pronto (0,0,0) até a origem, assim encontramos o angulo 
-    entre os dois vetores.
-
+1) Encontrar o angulo que a corda faz com o eixo vertical: [ok]
 
 '''
 
